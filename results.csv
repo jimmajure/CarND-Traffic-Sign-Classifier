@@ -1,0 +1,21 @@
+Date,Data Source,Model,Epochs,Batch Size,Learning Rate,Max Accuracy,Min Loss,Time (s),Training Samples,Test Samples
+2016-12-29 08:13:21.850704,data_greyscale_rotate,LeNet_dropout,10,256,0.001,0.9744,0.0825,86.8,94101,23526
+2016-12-29 08:15:31.525454,data_greyscale_rotate,LeNet_dropout,16,256,0.001,0.9832,0.0212,130,94101,23526
+2016-12-29 08:17:26.290035,data_greyscale_rotate,LeNet_dropout,14,256,0.001,0.9814,0.0512,115,94101,23526
+2016-12-29 08:19:00.121274,data_greyscale_rotate,LeNet_dropout,11,256,0.001,0.9736,0.0706,93.8,94101,23526
+2016-12-29 08:20:18.193698,data_greyscale_rotate,LeNet_dropout,9,256,0.001,0.9728,0.0708,78.1,94101,23526
+2016-12-29 08:20:57.928687,data_greyscale_rotate,multiscale1,4,256,0.001,0.9552,0.0846,39.7,94101,23526
+2016-12-29 08:22:12.698837,data_greyscale_rotate,multiscale1,9,256,0.001,0.9754,0.0397,74.8,94101,23526
+2016-12-29 08:23:21.046274,data_greyscale_rotate,multiscale1,8,256,0.001,0.9713,0.0867,68.3,94101,23526
+2016-12-29 08:24:14.298666,data_greyscale_rotate,multiscale1,6,256,0.001,0.9694,0.0788,53.2,94101,23526
+2016-12-29 08:25:35.354570,data_greyscale_rotate,multiscale1,10,256,0.001,0.9765,0.0471,81,94101,23526
+2016-12-29 08:51:54.214519,data_greyscale_rotate_stratified,LeNet_dropout,11,256,0.001,0.9776,0.0902,93.9,94101,23526
+2016-12-29 08:53:57.012964,data_greyscale_rotate_stratified,LeNet_dropout,15,256,0.001,0.9822,0.0483,123,94101,23526
+2016-12-29 08:55:29.299018,data_greyscale_rotate_stratified,LeNet_dropout,11,256,0.001,0.9776,0.05,92.2,94101,23526
+2016-12-29 08:57:16.247002,data_greyscale_rotate_stratified,LeNet_dropout,13,256,0.001,0.9778,0.0795,107,94101,23526
+2016-12-29 08:59:03.000509,data_greyscale_rotate_stratified,LeNet_dropout,13,256,0.001,0.979,0.0439,107,94101,23526
+2016-12-29 09:00:03.741155,data_greyscale_rotate_stratified,multiscale1,7,256,0.001,0.9697,0.0894,60.7,94101,23526
+2016-12-29 09:01:12.345240,data_greyscale_rotate_stratified,multiscale1,8,256,0.001,0.9746,0.067,68.5,94101,23526
+2016-12-29 09:02:20.820309,data_greyscale_rotate_stratified,multiscale1,8,256,0.001,0.9744,0.0894,68.4,94101,23526
+2016-12-29 09:03:28.820759,data_greyscale_rotate_stratified,multiscale1,8,256,0.001,0.9747,0.0814,67.9,94101,23526
+2016-12-29 09:04:23.875719,data_greyscale_rotate_stratified,multiscale1,6,256,0.001,0.971,0.119,55,94101,23526
